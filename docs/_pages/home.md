@@ -2,11 +2,9 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header-frontpage.png
+  overlay_color:
+  overlay_image:
   actions:
-    - label: "Click Here <i class='fas fa-laugh-beam'></i>"
-      url: "/docs/quick-start/"
 excerpt: >
 
 
