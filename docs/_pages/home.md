@@ -1,7 +1,3 @@
----
-layout: splash
-permalink: /
-header:
 
 ---
 
