@@ -5,12 +5,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header-frontpage.png
   actions:
-    - label: "I'm ready - how do I begin? <i class='fas fa-laugh-beam'></i>"
+    - label: "Click Here <i class='fas fa-laugh-beam'></i>"
       url: "/docs/quick-start/"
 excerpt: >
   Bring new life to Home Assistant with Floorplan. By mapping entities to SVG images, you’re able to show states, control devices, call services - and much more.
-  
-  <small>Use your own custom styles to visualize whatever you can think of. Your imagination becomes the new limit.</small>
+
 
 ---
 
