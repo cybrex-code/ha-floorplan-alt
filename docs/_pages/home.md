@@ -1,6 +1,4 @@
 
----
-
 <br>
 <div class="page__hero--overlay" style="width: calc(100% + 40px); margin-left: -20px;padding:60px 30px 40px 30px;background-color: #5e616c; background-image: url('/ha-floorplan/assets/images/bg-frontpage.png');">
    <div class="wrapper">
