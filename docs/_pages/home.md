@@ -8,7 +8,6 @@ header:
     - label: "Click Here <i class='fas fa-laugh-beam'></i>"
       url: "/docs/quick-start/"
 excerpt: >
-  Bring new life to Home Assistant with Floorplan. By mapping entities to SVG images, you’re able to show states, control devices, call services - and much more.
 
 
 ---
